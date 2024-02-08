@@ -1,7 +1,7 @@
-Este es un texto de prueva
+Este es un texto de prueba:
 
-Su ovjetivo es rebisar el sistema de bersionamiento de Git
+-Su objetivo es revisar el sistema de versionamiento de Git
 
-Como por ejemplo el camvio de letras al rebisar la ortografia
+-Como por ejemplo el cambio de letras al revisar la ortografía
 
-Fin del comunicado
+Fin del comunicado.
