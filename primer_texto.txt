@@ -1,0 +1,7 @@
+Este es un texto de prueva
+
+Su ovjetivo es rebisar el sistema de bersionamiento de Git
+
+Como por ejemplo el camvio de letras al rebisar la ortografia
+
+Fin del comunicado
